@@ -1,0 +1,14 @@
+# macOS 系统文件
+.DS_Store
+
+# Python 缓存文件
+__pycache__/
+*.pyc
+
+# 虚拟环境（如果你在项目里有 venv）
+venv/
+.env
+
+# 编辑器配置（可选）
+.vscode/
+.idea/
